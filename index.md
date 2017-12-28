@@ -27,7 +27,7 @@ The ability to digitalize our lives has outpaced our ability to stay safe. One o
 
 **Venue: Murlikrishna hall, CIR Block** 
 
-[Registration](https://docs.google.com/forms/u/3/d/10lbZ0R3S45_-G8WAxulLopCRUqca3TPGY78tbqpB-UY/edit)
+**Registration is closed**
 
 [Recent Talks given by CEN faculties](http://nlp.amrita.edu/facultytalk/talks.html)
 
@@ -35,7 +35,7 @@ The ability to digitalize our lives has outpaced our ability to stay safe. One o
 
 [Academics at CEN](http://nlp.amrita.edu/cenalumini/cen-alumini.html)
 
-[Check out the earlier workshops conducted by CEN](http://nlp.amrita.edu/workshop/workshops.html)
+[Check out the earlier workshops conducted by CEN](https://barathiganesh-hb.github.io/cen-workshops/)
 
 Why we conduct workshop frequently?
 [Advancement in technologies make many conventional engineering syllabus obselete](https://github.com/BarathiGanesh-HB/cen-deepchem2017/blob/master/RIP.pdf)
